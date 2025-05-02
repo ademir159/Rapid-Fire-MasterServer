@@ -1,6 +1,6 @@
 # Rapid-Fire-MasterServer
 
-Servidor mestre para jogos desenvolvidos em Unity3D — Projeto Rapid Fire.
+MasterServer para Unity3D — Criado para o Projeto Rapid Fire.
 
 Este servidor gerencia a infraestrutura central para partidas multiplayer, utilizando conexões TCP. Ele oferece os seguintes recursos principais:
 
@@ -31,7 +31,7 @@ Este servidor gerencia a infraestrutura central para partidas multiplayer, utili
 - Ambiente compatível com C++
 - Banco de dados configurado (se aplicável)
 - Unity3D para o cliente do jogo
-
+- Linux ou Windows
 ## 📁 Estrutura do Projeto
 
 - `Server/` – Contém o código principal do Master Server
